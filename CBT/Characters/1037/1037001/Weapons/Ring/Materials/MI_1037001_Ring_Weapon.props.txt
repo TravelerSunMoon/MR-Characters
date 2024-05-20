@@ -1,0 +1,614 @@
+Parent = Material3'1037/1037001/Weapons/Ring/Materials/M_1037001_Ring.M_1037001_Ring'
+ScalarParameterValues[51] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=1037_OpacityGroup }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=AOIntensity }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=EmissiveStrengthR }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=EmissiveStrengthG }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=EmissivePhotorespirationA }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=EmissivePhotorespirationB }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=EmissiveTimeScale01 }
+        ParameterValue = 0.15
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=EmissiveTimeScale02 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=EmissivePhotorespirationlerp }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=FresnelExponentln }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=FresnelFractionIn }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=EmissivePhotorespirationExp }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=FresnelIns }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=BaseGlowPower }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=EmissiveStrength }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=ExtraSpecularRoughness }
+        ParameterValue = 0.6
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=LightStrength }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[17] =
+    {
+        ParameterInfo = { Name=LightSwitch }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[18] =
+    {
+        ParameterInfo = { Name=LightFresnel_Power }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[19] =
+    {
+        ParameterInfo = { Name=LightFresnel_Range }
+        ParameterValue = 0.01
+        ParameterName = None
+    }
+    ScalarParameterValues[20] =
+    {
+        ParameterInfo = { Name=LightTex_Power }
+        ParameterValue = 8
+        ParameterName = None
+    }
+    ScalarParameterValues[21] =
+    {
+        ParameterInfo = { Name=LightTex_Mulitply }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[22] =
+    {
+        ParameterInfo = { Name=NoiseStrength }
+        ParameterValue = 0.6
+        ParameterName = None
+    }
+    ScalarParameterValues[23] =
+    {
+        ParameterInfo = { Name=Tex2Lerp }
+        ParameterValue = 4
+        ParameterName = None
+    }
+    ScalarParameterValues[24] =
+    {
+        ParameterInfo = { Name=LightTex2_Power }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[25] =
+    {
+        ParameterInfo = { Name=LightTex2_Mulitply }
+        ParameterValue = 8
+        ParameterName = None
+    }
+    ScalarParameterValues[26] =
+    {
+        ParameterInfo = { Name=Noise2Strength }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[27] =
+    {
+        ParameterInfo = { Name=BaseColor_Strength }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[28] =
+    {
+        ParameterInfo = { Name=U_Speed }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[29] =
+    {
+        ParameterInfo = { Name=V_Speed }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[30] =
+    {
+        ParameterInfo = { Name=U_Offset }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[31] =
+    {
+        ParameterInfo = { Name=V_Offset }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[32] =
+    {
+        ParameterInfo = { Name=BaseNoise_Strength }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[33] =
+    {
+        ParameterInfo = { Name=SphereMaskAlpha }
+        ParameterValue = 1.1
+        ParameterName = None
+    }
+    ScalarParameterValues[34] =
+    {
+        ParameterInfo = { Name=SphereMaskSoft }
+        ParameterValue = 0.7
+        ParameterName = None
+    }
+    ScalarParameterValues[35] =
+    {
+        ParameterInfo = { Name=Metailic }
+        ParameterValue = 0.15
+        ParameterName = None
+    }
+    ScalarParameterValues[36] =
+    {
+        ParameterInfo = { Name=NormalIntensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[37] =
+    {
+        ParameterInfo = { Name=BackFresnelPower }
+        ParameterValue = 25
+        ParameterName = None
+    }
+    ScalarParameterValues[38] =
+    {
+        ParameterInfo = { Name=BackRimRange }
+        ParameterValue = 0.98
+        ParameterName = None
+    }
+    ScalarParameterValues[39] =
+    {
+        ParameterInfo = { Name=RoughnessPower }
+        ParameterValue = 0.144
+        ParameterName = None
+    }
+    ScalarParameterValues[40] =
+    {
+        ParameterInfo = { Name=EdgeRoughnessPower }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[41] =
+    {
+        ParameterInfo = { Name=EdgeRoughnessFresnel }
+        ParameterValue = 6
+        ParameterName = None
+    }
+    ScalarParameterValues[42] =
+    {
+        ParameterInfo = { Name=MissiveColor_Stength }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[43] =
+    {
+        ParameterInfo = { Name=Add Or Multiply }
+        ParameterValue = 0.8
+        ParameterName = None
+    }
+    ScalarParameterValues[44] =
+    {
+        ParameterInfo = { Name=Base1_Stength }
+        ParameterValue = 0.03
+        ParameterName = None
+    }
+    ScalarParameterValues[45] =
+    {
+        ParameterInfo = { Name=Base1_Power }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[46] =
+    {
+        ParameterInfo = { Name=Base2_Stength }
+        ParameterValue = 0.2
+        ParameterName = None
+    }
+    ScalarParameterValues[47] =
+    {
+        ParameterInfo = { Name=Base2_Power }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[48] =
+    {
+        ParameterInfo = { Name=Noise_Stength }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[49] =
+    {
+        ParameterInfo = { Name=Noise_Power }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[50] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[16] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseTexture1 }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=Light_Tex }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=Noise_Tex }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=Light_Tex2 }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=Noise2_Tex }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=Base01Noise_Tex }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[6] =
+    {
+        ParameterInfo = { Name=BaseColor }
+        ParameterValue = Texture2D'1037/1037001/Weapons/Ring/Textures/T_1037001_Ring_Weapon_D.T_1037001_Ring_Weapon_D'
+        ParameterName = None
+    }
+    TextureParameterValues[7] =
+    {
+        ParameterInfo = { Name=ORM }
+        ParameterValue = Texture2D'1037/1037001/Weapons/Ring/Textures/T_1037001_Ring_Weapon_ORM.T_1037001_Ring_Weapon_ORM'
+        ParameterName = None
+    }
+    TextureParameterValues[8] =
+    {
+        ParameterInfo = { Name=Normal }
+        ParameterValue = Texture2D'1037/1037001/Weapons/Ring/Textures/T_1037001_Ring_Weapon_N.T_1037001_Ring_Weapon_N'
+        ParameterName = None
+    }
+    TextureParameterValues[9] =
+    {
+        ParameterInfo = { Name=Emissive }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[10] =
+    {
+        ParameterInfo = { Name=VfxEmissive01 }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[11] =
+    {
+        ParameterInfo = { Name=SpecularTexture }
+        ParameterValue = Texture2D'1037/1037001/Weapons/Ring/Textures/T_1037001_Ring_Weapon_S.T_1037001_Ring_Weapon_S'
+        ParameterName = None
+    }
+    TextureParameterValues[12] =
+    {
+        ParameterInfo = { Name=VFxMissiveColor }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[13] =
+    {
+        ParameterInfo = { Name=Base1Texture }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[14] =
+    {
+        ParameterInfo = { Name=Base2Texture }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[15] =
+    {
+        ParameterInfo = { Name=NoiseTexture }
+        ParameterValue = None
+        ParameterName = None
+    }
+}
+VectorParameterValues[29] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=UVTile_Base01 }
+        ParameterValue = { R=1, G=2, B=180, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=BaseTint }
+        ParameterValue = { R=1, G=1, B=1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=EmissiveColorR }
+        ParameterValue = { R=0.282292, G=0.171874, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=EmissiveColorG }
+        ParameterValue = { R=0.40724, G=0.165132, B=0.783538, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=EmissiveColorB }
+        ParameterValue = { R=1, G=1, B=1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=BreathingLight_FresnelColor }
+        ParameterValue = { R=0, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=BaseGlowColor }
+        ParameterValue = { R=1, G=1, B=1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=EmissiveColor }
+        ParameterValue = { R=1, G=1, B=1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=ExtraSpecularTint }
+        ParameterValue = { R=1, G=1, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[9] =
+    {
+        ParameterInfo = { Name=Light_UV }
+        ParameterValue = { R=1, G=1, B=0, A=-0.3 }
+        ParameterName = None
+    }
+    VectorParameterValues[10] =
+    {
+        ParameterInfo = { Name=Noise_UV }
+        ParameterValue = { R=1, G=1, B=0.05, A=0.05 }
+        ParameterName = None
+    }
+    VectorParameterValues[11] =
+    {
+        ParameterInfo = { Name=Light2_UV }
+        ParameterValue = { R=1, G=30, B=0, A=-0.25 }
+        ParameterName = None
+    }
+    VectorParameterValues[12] =
+    {
+        ParameterInfo = { Name=Noise2_UV }
+        ParameterValue = { R=2, G=1, B=0, A=0.2 }
+        ParameterName = None
+    }
+    VectorParameterValues[13] =
+    {
+        ParameterInfo = { Name=BaseRefine }
+        ParameterValue = { R=5, G=5, B=0.5, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[14] =
+    {
+        ParameterInfo = { Name=Base01Noise_UVR }
+        ParameterValue = { R=1, G=1, B=90, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[15] =
+    {
+        ParameterInfo = { Name=Base01Noise_UVS }
+        ParameterValue = { R=0.1, G=-0.2, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[16] =
+    {
+        ParameterInfo = { Name=Light_Color }
+        ParameterValue = { R=0.11634, G=0.035939, B=0.6, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[17] =
+    {
+        ParameterInfo = { Name=BaseColor }
+        ParameterValue = { R=0.969498, G=0.299497, B=5, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[18] =
+    {
+        ParameterInfo = { Name=SphereMask_Refine }
+        ParameterValue = { R=3, G=15, B=1, A=0.5 }
+        ParameterName = None
+    }
+    VectorParameterValues[19] =
+    {
+        ParameterInfo = { Name=BackRimColor }
+        ParameterValue = { R=0.00575, G=0.049262, B=0.05, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[20] =
+    {
+        ParameterInfo = { Name=RimLightDirection }
+        ParameterValue = { R=-2, G=-2, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[21] =
+    {
+        ParameterInfo = { Name=MC_Shade_0 }
+        ParameterValue = { R=0.760417, G=0.760417, B=0.760417, A=0.8 }
+        ParameterName = None
+    }
+    VectorParameterValues[22] =
+    {
+        ParameterInfo = { Name=MC_Shade_1 }
+        ParameterValue = { R=0.156684, G=0.156861, B=0.197917, A=0.5 }
+        ParameterName = None
+    }
+    VectorParameterValues[23] =
+    {
+        ParameterInfo = { Name=MC_Shade_2 }
+        ParameterValue = { R=0.3, G=0.3, B=0.3, A=0.2 }
+        ParameterName = None
+    }
+    VectorParameterValues[24] =
+    {
+        ParameterInfo = { Name=MC_ShadeSmoothness_3 }
+        ParameterValue = { R=0.4, G=0.2, B=0.2, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[25] =
+    {
+        ParameterInfo = { Name=BaseTex_Color }
+        ParameterValue = { R=55.9028, G=27.0833, B=200, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[26] =
+    {
+        ParameterInfo = { Name=BaseTex1_Uv_S }
+        ParameterValue = { R=1, G=1, B=0, A=0.15 }
+        ParameterName = None
+    }
+    VectorParameterValues[27] =
+    {
+        ParameterInfo = { Name=BaseTex2_Uv_S }
+        ParameterValue = { R=0.5, G=1, B=0.01, A=-0.2 }
+        ParameterName = None
+    }
+    VectorParameterValues[28] =
+    {
+        ParameterInfo = { Name=NoiseTex_Uv_S }
+        ParameterValue = { R=1, G=1, B=0, A=0 }
+        ParameterName = None
+    }
+}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

@@ -1,0 +1,47 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[9] =
+{
+    ReferencedTextures[0] = Texture2D'Common/Textures/CameraCrossDithering/T_Common_3x3And2x2_Mix.T_Common_3x3And2x2_Mix'
+    ReferencedTextures[1] = Texture2D'Common/Textures/CameraCrossDithering/T_Common_4x4_Mix.T_Common_4x4_Mix'
+    ReferencedTextures[2] = Texture2D'Common/Textures/Eyes/T_Eye_N.T_Eye_N'
+    ReferencedTextures[3] = Texture2D'Common/Textures/Eyes/T_EyeMidPlaneDisplacement.T_EyeMidPlaneDisplacement'
+    ReferencedTextures[4] = Texture2D'Common/Textures/Eyes/T_EyeSclera_D.T_EyeSclera_D'
+    ReferencedTextures[5] = Texture2D'Common/Textures/Eyes/T_Iris001_01_AO.T_Iris001_01_AO'
+    ReferencedTextures[6] = Texture2D'Common/Textures/Eyes/T_Iris001_01_D.T_Iris001_01_D'
+    ReferencedTextures[7] = Texture2D'Common/Textures/Eyes/T_Iris001_01_H.T_Iris001_01_H'
+    ReferencedTextures[8] = Texture2D'Common/Textures/T_Common_Black.T_Common_Black'
+}
+Expressions[0] = {}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Opaque (0)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[0] = {}
+CollectedScalarParameters[0] = {}
+CollectedVectorParameters[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

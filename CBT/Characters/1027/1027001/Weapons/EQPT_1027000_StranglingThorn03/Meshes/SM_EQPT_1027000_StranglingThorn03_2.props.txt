@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'1027/1027001/Weapons/EQPT_1027000_StranglingThorn03/Materials/MI_1027001_StranglingThorn03_2.MI_1027001_StranglingThorn03_2'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'1027/1027001/Weapons/EQPT_1027000_StranglingThorn03/Materials/MI_1027001_StranglingThorn03_2.MI_1027001_StranglingThorn03_2'
+        MaterialSlotName = MI_EQPT_1027000_StranglingThorn2
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 681.207, 767.08, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=0, Y=0, Z=0 }
+    BoxExtent = { X=0, Y=0, Z=0 }
+    SphereRadius = 0
+}

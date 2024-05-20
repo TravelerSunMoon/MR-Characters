@@ -1,0 +1,12 @@
+Skeleton = Skeleton'1037/1037001/Meshes/SK_1037_1037001_Skeleton.SK_1037_1037001_Skeleton'
+bHasVertexColors = true
+bComputeNormalsToUVs = false
+LODInfo[0] = {}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData = { WholeMeshBuiltData[0]={}, RegionBuiltData[0]={} }
+}
+SkinWeightProfiles[0] = {}

@@ -1,0 +1,23 @@
+Materials[1] = {  }
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = None
+        MaterialSlotName = MI_EQPT_1027000_StranglingThorn1
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 1727.21, 2264.52, 784.89, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=0, Y=0, Z=0 }
+    BoxExtent = { X=0, Y=0, Z=0 }
+    SphereRadius = 0
+}

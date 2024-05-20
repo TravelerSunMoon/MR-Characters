@@ -1,0 +1,12 @@
+Skeleton = Skeleton'1023/1023001/Weapons/WP_1023001_Cooperation_Ammo/Meshes/SK_WP_Cooperation_Ammo_Skeleton.SK_WP_Cooperation_Ammo_Skeleton'
+bHasVertexColors = true
+bComputeNormalsToUVs = false
+LODInfo[0] = {}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData = { WholeMeshBuiltData[0]={}, RegionBuiltData[0]={} }
+}
+SkinWeightProfiles[0] = {}

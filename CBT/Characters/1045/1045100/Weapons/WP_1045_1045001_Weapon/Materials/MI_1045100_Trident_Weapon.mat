@@ -1,0 +1,9 @@
+Diffuse=T_1045100_Trident_Weapon_D
+Normal=T_1045100_Trident_Weapon_N
+SpecPower=T_1045100_Trident_Weapon_S
+Other[0]=T_1045001_Trident_RM_M
+Other[1]=T_1045100_Trident_Weapon_ORM
+Other[2]=T_1045001_Trident_Weapon_D
+Other[3]=T_1045001_Trident_Weapon_ORM
+Other[4]=T_1045001_Trident_Weapon_N
+Other[5]=T_1045001_Trident_Weapon_S

@@ -1,0 +1,9 @@
+Diffuse=T_1045100_Body_D
+Normal=T_1045100_Body_N
+SpecPower=T_1045100_Body_S
+Other[0]=T_1045001_Body_RM_M
+Other[1]=T_1045100_Body_ORM
+Other[2]=T_1045001_Body_D
+Other[3]=T_1045001_Body_ORM
+Other[4]=T_1045001_Body_N
+Other[5]=T_1045001_Body_S

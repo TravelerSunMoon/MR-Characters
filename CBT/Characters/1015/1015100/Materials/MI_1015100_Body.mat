@@ -1,0 +1,8 @@
+Diffuse=T_1015100_Body_D
+Normal=T_1015001_Body_N
+SpecPower=T_1015100_Body_S
+Emissive=T_1015001_Body_E
+Other[0]=T_1015001_Body_L_01
+Other[1]=T_1015001_Body_ORM
+Other[2]=T_1015001_Body_L_02
+Other[3]=T_1015001_Body_L_03

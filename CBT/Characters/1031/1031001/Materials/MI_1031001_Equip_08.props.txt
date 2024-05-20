@@ -1,0 +1,368 @@
+Parent = Material3'1031/1031001/Materials/M_1031001_1031_IceStage_FX.M_1031001_1031_IceStage_FX'
+ScalarParameterValues[33] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=TranslucentDepthSort? }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=Base Brightness Far }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=Base Desaturation Far }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=Base Power Far }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=Bump Offset Texture Brightness Far }
+        ParameterValue = 0.3
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=Depth Cloud A Intensity Far }
+        ParameterValue = 100
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=Depth Cloud B Intensity Far }
+        ParameterValue = 11
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=Ice Depth Cloud A Far }
+        ParameterValue = -35
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=Ice Depth Cloud B Far }
+        ParameterValue = -5
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=Depth Brightness Far }
+        ParameterValue = 20
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=Texture Scale Far }
+        ParameterValue = 0.045302
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=BaseBlend }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=BaseReflectFractionIn }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=BaseReflectFractionIn02 }
+        ParameterValue = 0.02
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=Bright }
+        ParameterValue = 0.7
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=BumpExp }
+        ParameterValue = 1.7
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=CrackInt }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[17] =
+    {
+        ParameterInfo = { Name=Desaturation }
+        ParameterValue = 0.15
+        ParameterName = None
+    }
+    ScalarParameterValues[18] =
+    {
+        ParameterInfo = { Name=EmissiveInt }
+        ParameterValue = 100
+        ParameterName = None
+    }
+    ScalarParameterValues[19] =
+    {
+        ParameterInfo = { Name=ExponentIn }
+        ParameterValue = 5
+        ParameterName = None
+    }
+    ScalarParameterValues[20] =
+    {
+        ParameterInfo = { Name=ExponentIn02 }
+        ParameterValue = 15
+        ParameterName = None
+    }
+    ScalarParameterValues[21] =
+    {
+        ParameterInfo = { Name=Flatness (S) }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[22] =
+    {
+        ParameterInfo = { Name=FlowInt }
+        ParameterValue = 27.4157
+        ParameterName = None
+    }
+    ScalarParameterValues[23] =
+    {
+        ParameterInfo = { Name=Opacity }
+        ParameterValue = 0.8
+        ParameterName = None
+    }
+    ScalarParameterValues[24] =
+    {
+        ParameterInfo = { Name=Refraction }
+        ParameterValue = -8.77411
+        ParameterName = None
+    }
+    ScalarParameterValues[25] =
+    {
+        ParameterInfo = { Name=RoughnessInt }
+        ParameterValue = 0.6
+        ParameterName = None
+    }
+    ScalarParameterValues[26] =
+    {
+        ParameterInfo = { Name=Specukar }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[27] =
+    {
+        ParameterInfo = { Name=BaseBright }
+        ParameterValue = 0.025
+        ParameterName = None
+    }
+    ScalarParameterValues[28] =
+    {
+        ParameterInfo = { Name=FPS (S) }
+        ParameterValue = 24
+        ParameterName = None
+    }
+    ScalarParameterValues[29] =
+    {
+        ParameterInfo = { Name=FrameCounts (S) }
+        ParameterValue = 321
+        ParameterName = None
+    }
+    ScalarParameterValues[30] =
+    {
+        ParameterInfo = { Name=MusicBright }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[31] =
+    {
+        ParameterInfo = { Name=Time From Zero (S) }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[32] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[11] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=Base Texture }
+        ParameterValue = Texture2D'1031/1031001/Texture/T_1031001_Equip_08_D.T_1031001_Equip_08_D'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=Depth Texture }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=Depth Texture BO }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=Depth Cloud }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=BaseTex }
+        ParameterValue = Texture2D'1031/1031001/Texture/T_1031001_Equip_08_E.T_1031001_Equip_08_E'
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=BaseTex02 }
+        ParameterValue = Texture2D'1031/1031001/Texture/T_1031001_Equip_08_D.T_1031001_Equip_08_D'
+        ParameterName = None
+    }
+    TextureParameterValues[6] =
+    {
+        ParameterInfo = { Name=CrackTex }
+        ParameterValue = Texture2D'1031/1031001/Texture/T_1031001_Equip_08_M.T_1031001_Equip_08_M'
+        ParameterName = None
+    }
+    TextureParameterValues[7] =
+    {
+        ParameterInfo = { Name=EmissiveTex }
+        ParameterValue = Texture2D'1031/1031001/Texture/T_1031001_Equip_08_E.T_1031001_Equip_08_E'
+        ParameterName = None
+    }
+    TextureParameterValues[8] =
+    {
+        ParameterInfo = { Name=FlowTex01 }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[9] =
+    {
+        ParameterInfo = { Name=FlowTex02 }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[10] =
+    {
+        ParameterInfo = { Name=NMTex }
+        ParameterValue = None
+        ParameterName = None
+    }
+}
+VectorParameterValues[11] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=Base Color Far }
+        ParameterValue = { R=0.1679, G=0.5245, B=1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=Depth Cloud Color A Far }
+        ParameterValue = { R=0.2, G=0.2, B=0.2, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=Depth Cloud Color B Far }
+        ParameterValue = { R=0.2, G=0.2, B=0.2, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=Depth Color Far }
+        ParameterValue = { R=0.192624, G=0.4598, B=0.75, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=BumpColor }
+        ParameterValue = { R=0.036458, G=0.806473, B=1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=EmiColor }
+        ParameterValue = { R=0.001435, G=1.04434, B=1.2, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=FlowUvs01 }
+        ParameterValue = { R=1, G=3, B=0.3, A=0.03 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=FlowUvs02 }
+        ParameterValue = { R=1, G=1, B=-0.03, A=-0.12 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=FresnelColor }
+        ParameterValue = { R=0, G=3.70296, B=4, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[9] =
+    {
+        ParameterInfo = { Name=FresnelColor02 }
+        ParameterValue = { R=2, G=0, B=1.65662, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[10] =
+    {
+        ParameterInfo = { Name=NMUvs02 }
+        ParameterValue = { R=1, G=1, B=0, A=0 }
+        ParameterName = None
+    }
+}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

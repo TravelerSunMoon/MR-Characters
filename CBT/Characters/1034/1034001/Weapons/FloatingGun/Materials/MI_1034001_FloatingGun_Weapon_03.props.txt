@@ -1,0 +1,98 @@
+Parent = None
+ScalarParameterValues[7] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=HighlightIntensity }
+        ParameterValue = 2.49717
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=Opacity }
+        ParameterValue = 0.021429
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=Opacity_HighLight }
+        ParameterValue = 1.90087
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=PowerFactor }
+        ParameterValue = 1.59143
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=ReflectionIntensity }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=RotateAngle }
+        ParameterValue = 6.96871
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[1] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=HighlightMask }
+        ParameterValue = Texture2D'1034/1034001/Weapons/FloatingGun/Textures/T_1034001_FloatingGun_Weapon_03_M.T_1034001_FloatingGun_Weapon_03_M'
+        ParameterName = None
+    }
+}
+VectorParameterValues[2] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseColor }
+        ParameterValue = { R=0.014724, G=0.755873, B=0.8125, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=HighlightTint }
+        ParameterValue = { R=0.059957, G=0.79939, B=1, A=1 }
+        ParameterName = None
+    }
+}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

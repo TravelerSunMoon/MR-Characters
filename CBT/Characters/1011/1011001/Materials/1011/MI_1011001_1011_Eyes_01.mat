@@ -1,0 +1,11 @@
+Diffuse=T_1011001_1011_Eyes_01_D
+Normal=T_Eye_N
+Other[0]=T_1011001_1011_Eyes_01_S
+Other[1]=T_Common_3x3And2x2_Mix
+Other[2]=T_Common_4x4_Mix
+Other[3]=T_EyeMidPlaneDisplacement
+Other[4]=T_EyeSclera_D
+Other[5]=T_Iris001_01_AO
+Other[6]=T_Iris001_01_D
+Other[7]=T_Iris001_01_H
+Other[8]=T_Common_Black

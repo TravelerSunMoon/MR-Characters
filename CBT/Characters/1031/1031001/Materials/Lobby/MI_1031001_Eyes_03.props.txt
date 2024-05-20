@@ -1,0 +1,66 @@
+Parent = None
+ScalarParameterValues[4] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=HighlightIntensity }
+        ParameterValue = 1.15189
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=PowerFactor }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=ReflectionIntensity }
+        ParameterValue = 7.88378
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[1] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=HighlightMask }
+        ParameterValue = Texture2D'1031/1031001/Texture/T_1031001_EyesHighLight_M.T_1031001_EyesHighLight_M'
+        ParameterName = None
+    }
+}
+VectorParameterValues[0] = {}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

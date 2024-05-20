@@ -1,0 +1,6 @@
+Diffuse=T_1014500_Turret_Weapon_01_D
+Normal=T_1014001_Turret_Weapon_01_N
+Emissive=T_1014500_Turret_Weapon_01_E
+Other[0]=T_1014001_Turret_Weapon_01_ORM
+Other[1]=T_1014001_Turret_Weapon_01_E
+Other[2]=T_1014001_Turret_Weapon_01_D

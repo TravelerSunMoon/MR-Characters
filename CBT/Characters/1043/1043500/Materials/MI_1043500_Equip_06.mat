@@ -1,0 +1,10 @@
+Diffuse=T_1043500_Equip_06_D
+Normal=T_1043500_Equip_06_N
+SpecPower=T_1043500_Equip_06_S
+Emissive=T_1043500_Equip_06_E
+Other[0]=T_1043500_Equip_06_ORM
+Other[1]=T_1043001_Equip_02_E
+Other[2]=T_1043001_Equip_02_D
+Other[3]=T_1043001_Equip_02_ORM
+Other[4]=T_1043001_Equip_02_N
+Other[5]=T_1043001_Equip_02_S

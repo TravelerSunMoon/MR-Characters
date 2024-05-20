@@ -1,0 +1,152 @@
+Parent = Material3'1023/1023300/Materials/Lobby/M_1023300_SimpleGlass.M_1023300_SimpleGlass'
+ScalarParameterValues[11] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=Color1or2 }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=HighlightIntensity }
+        ParameterValue = 30
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=Opacity }
+        ParameterValue = 0.05
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=Opacity_HighLight }
+        ParameterValue = 0.6
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=PowerFactor }
+        ParameterValue = 1.4
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=ReflectionIntensity }
+        ParameterValue = 6
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=RotateAngle }
+        ParameterValue = 16
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=TileX }
+        ParameterValue = 0.902244
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=TileY }
+        ParameterValue = 0.726976
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=VLMIntensity }
+        ParameterValue = 0.3
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[2] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=FakeReflection }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=HighlightMask }
+        ParameterValue = Texture2D'1023/1023300/Textures/T_1023300_Equip_04.T_1023300_Equip_04'
+        ParameterName = None
+    }
+}
+VectorParameterValues[6] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseColor }
+        ParameterValue = { R=0, G=0.308196, B=0.396755, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=BaseColor2 }
+        ParameterValue = { R=0, G=0.626998, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=HighlightTint }
+        ParameterValue = { R=0, G=0.402286, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=HighlightTint2 }
+        ParameterValue = { R=0.312, G=0.176688, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=ReflectionTint02 }
+        ParameterValue = { R=0.837316, G=0.634822, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=RotateFactor }
+        ParameterValue = { R=0.296875, G=0.639108, B=1, A=1 }
+        ParameterName = None
+    }
+}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

@@ -1,0 +1,260 @@
+Parent = Material3'1016/1016001/Weapons/Rune/Materials/M_Common_Body.M_Common_Body'
+ScalarParameterValues[21] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=01_Position }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=01_Smoothness }
+        ParameterValue = 0.16
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=01_strength }
+        ParameterValue = 800
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=02_TwoSided_Position }
+        ParameterValue = 0.45
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=02_TwoSided_Smoothness }
+        ParameterValue = 0.432
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=32 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=Color_Amout }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=DissolveTEX-strength }
+        ParameterValue = 253
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=DissolveTEX_Smoothness }
+        ParameterValue = 1.5
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=Light_Width }
+        ParameterValue = 10
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=Open_FX_102341_Die }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=VLMIntensity }
+        ParameterValue = 0.3
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=Metailic }
+        ParameterValue = 0.976
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=NormalIntensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=BackFresnelPower }
+        ParameterValue = 20
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=BackRimRange }
+        ParameterValue = 0.98
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=RoughnessPower }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[17] =
+    {
+        ParameterInfo = { Name=EdgeRoughnessPower }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[18] =
+    {
+        ParameterInfo = { Name=EdgeRoughnessFresnel }
+        ParameterValue = 10
+        ParameterName = None
+    }
+    ScalarParameterValues[19] =
+    {
+        ParameterInfo = { Name=MC_StartIndex }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[20] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[4] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=DissolveTEX }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=BaseColor }
+        ParameterValue = Texture2D'1037/1037001/Weapons/Sword/Textures/T_EQPT_1037001_Sword_Weapon_D.T_EQPT_1037001_Sword_Weapon_D'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=ORM }
+        ParameterValue = Texture2D'1037/1037001/Weapons/Sword/Textures/T_EQPT_1037001_Sword_Weapon_ORM.T_EQPT_1037001_Sword_Weapon_ORM'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=Normal }
+        ParameterValue = Texture2D'1037/1037001/Weapons/Sword/Textures/T_EQPT_1037001_Sword_Weapon_N.T_EQPT_1037001_Sword_Weapon_N'
+        ParameterName = None
+    }
+}
+VectorParameterValues[12] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseTint }
+        ParameterValue = { R=0.8, G=0.8, B=0.8, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=01_BoundingSize }
+        ParameterValue = { R=1000, G=1000, B=1000, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=DissolveColor_A }
+        ParameterValue = { R=16.7328, G=6.6455, B=50, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=DissolveColor_B }
+        ParameterValue = { R=16.7327, G=6.6455, B=50, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=DissolveTEX_Offset }
+        ParameterValue = { R=0, G=0, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=DissolveTEX_Tiling }
+        ParameterValue = { R=300, G=300, B=300, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=BackRimColor }
+        ParameterValue = { R=0, G=0.029167, B=0.05, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=RimLightDirection }
+        ParameterValue = { R=-2, G=-2, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=MC_Shade_0 }
+        ParameterValue = { R=0.76, G=0.776666, B=0.8, A=0.8 }
+        ParameterName = None
+    }
+    VectorParameterValues[9] =
+    {
+        ParameterInfo = { Name=MC_Shade_1 }
+        ParameterValue = { R=0.4, G=0.4, B=0.4, A=0.6 }
+        ParameterName = None
+    }
+    VectorParameterValues[10] =
+    {
+        ParameterInfo = { Name=MC_Shade_2 }
+        ParameterValue = { R=0.2, G=0.2, B=0.2, A=0.2 }
+        ParameterName = None
+    }
+    VectorParameterValues[11] =
+    {
+        ParameterInfo = { Name=MC_ShadeSmoothness_3 }
+        ParameterValue = { R=0.2, G=0.2, B=0.2, A=0 }
+        ParameterName = None
+    }
+}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

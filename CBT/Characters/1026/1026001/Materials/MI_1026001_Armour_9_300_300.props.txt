@@ -1,0 +1,230 @@
+Parent = Material3'1026/1026001/Materials/M_1026001_Armour_9_300.M_1026001_Armour_9_300'
+ScalarParameterValues[20] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=Range2 }
+        ParameterValue = -0.4
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=Clamp Power }
+        ParameterValue = 10
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=V_Offset }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=Dissolve_9_300 }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=fengwo }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=U }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=US }
+        ParameterValue = -0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=V }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=VS }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=ExponentIn2 }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=ADDCOLOR }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=Alpha }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=Color Int }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=Smoot MAX }
+        ParameterValue = 0.4
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=Smooth Alpha }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=Mask_Radius_9_300 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=BaseReflectFractionIn }
+        ParameterValue = -0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[17] =
+    {
+        ParameterInfo = { Name=ExponentIn }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[18] =
+    {
+        ParameterInfo = { Name=BaseReflectFractionIn2 }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[19] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[2] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=Clamp }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=liudong }
+        ParameterValue = None
+        ParameterName = None
+    }
+}
+VectorParameterValues[10] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=Clamp COLOR }
+        ParameterValue = { R=400, G=400, B=400, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=ClampUV }
+        ParameterValue = { R=1, G=1, B=0, A=0.2 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=color1 }
+        ParameterValue = { R=0.612971, G=0.289557, B=1.2, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=color2 }
+        ParameterValue = { R=0.134736, G=0.149124, B=0.239583, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=fengwo }
+        ParameterValue = { R=0.01, G=0.01, B=0.01, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=fengwoUV3 }
+        ParameterValue = { R=1.5, G=1.5, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=fengwuUVliudong }
+        ParameterValue = { R=2, G=2, B=0.3, A=0.3 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=liudongcolor }
+        ParameterValue = { R=2.96491, G=1.40199, B=10, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=Fresnel Color }
+        ParameterValue = { R=0.495617, G=0.031026, B=1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[9] =
+    {
+        ParameterInfo = { Name=xian }
+        ParameterValue = { R=1.29398, G=0.747225, B=2, A=0 }
+        ParameterName = None
+    }
+}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

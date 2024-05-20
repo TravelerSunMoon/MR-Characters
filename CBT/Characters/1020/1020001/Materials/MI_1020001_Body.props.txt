@@ -1,0 +1,218 @@
+Parent = Material3'1020/1020001/Materials/M_1020001_Body.M_1020001_Body'
+ScalarParameterValues[13] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseGlowPower }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=EmissiveStrength }
+        ParameterValue = 1.6
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=FX_RimFresnelPower }
+        ParameterValue = 5.5
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=FX_RimRange }
+        ParameterValue = 0.4
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=FX_BackFresnelPower }
+        ParameterValue = 5
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=FX_BackRimRange }
+        ParameterValue = 0.4
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=FX_102071_RimLight }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=NormalIntensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=BackFresnelPower }
+        ParameterValue = 20
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=BackRimRange }
+        ParameterValue = 0.999
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=RoughnessPower }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=EdgeRoughnessPower }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[4] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseColor }
+        ParameterValue = Texture2D'1020/1020001/Texture/T_1020001_Body_D.T_1020001_Body_D'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=ORM }
+        ParameterValue = Texture2D'1020/1020001/Texture/T_1020001_Body_ORM.T_1020001_Body_ORM'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=Normal }
+        ParameterValue = Texture2D'1020/1020001/Texture/T_1020001_Body_N.T_1020001_Body_N'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=Emissive }
+        ParameterValue = Texture2D'1020/1020001/Texture/T_1020001_Body_E.T_1020001_Body_E'
+        ParameterName = None
+    }
+}
+VectorParameterValues[13] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseTint }
+        ParameterValue = { R=0.864583, G=0.864583, B=0.864583, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=BaseGlowColor }
+        ParameterValue = { R=1, G=1, B=1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=EmissiveColor }
+        ParameterValue = { R=0.906463, G=1, B=0.599127, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=FX_AdditionalBloomOutputColor }
+        ParameterValue = { R=0.971701, G=1.5, B=0.1143, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=FX_BackRimColor }
+        ParameterValue = { R=1.34916, G=3, B=0.17641, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=FX_RimLightDirection }
+        ParameterValue = { R=0.79451, G=0.294505, B=0.533558, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=FX_RimLightColor }
+        ParameterValue = { R=1.42613, G=3, B=0.091062, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=BackRimColor }
+        ParameterValue = { R=0.01685, G=0.05, B=0.048962, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=RimLightDirection }
+        ParameterValue = { R=-2, G=-2, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[9] =
+    {
+        ParameterInfo = { Name=MC_Shade_0 }
+        ParameterValue = { R=0.8, G=0.8, B=0.8, A=0.6 }
+        ParameterName = None
+    }
+    VectorParameterValues[10] =
+    {
+        ParameterInfo = { Name=MC_Shade_1 }
+        ParameterValue = { R=0.6, G=0.6, B=0.6, A=0.4 }
+        ParameterName = None
+    }
+    VectorParameterValues[11] =
+    {
+        ParameterInfo = { Name=MC_Shade_2 }
+        ParameterValue = { R=0.2, G=0.2, B=0.2, A=0.1 }
+        ParameterName = None
+    }
+    VectorParameterValues[12] =
+    {
+        ParameterInfo = { Name=MC_ShadeSmoothness_3 }
+        ParameterValue = { R=0.2, G=0.2, B=0.2, A=0 }
+        ParameterName = None
+    }
+}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

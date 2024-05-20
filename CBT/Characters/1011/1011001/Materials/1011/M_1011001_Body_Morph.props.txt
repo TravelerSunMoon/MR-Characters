@@ -1,0 +1,50 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[12] =
+{
+    ReferencedTextures[0] = Texture2D'1011/1011001/Textures/1011/T_1011001_1011_Body_M.T_1011001_1011_Body_M'
+    ReferencedTextures[1] = Texture2D'1011/1011001/Textures/1011/T_1011001_1011_Equip_02_E.T_1011001_1011_Equip_02_E'
+    ReferencedTextures[2] = Texture2D'1011/1011001/Textures/1011/T_1011001_1011_Eyes_01_M.T_1011001_1011_Eyes_01_M'
+    ReferencedTextures[3] = Texture2D'1011/1011001/Textures/1012/T_1012001_1012_Body_02_E.T_1012001_1012_Body_02_E'
+    ReferencedTextures[4] = Texture2D'1011/1011001/Textures/1012/T_1012001_1012_Body_E.T_1012001_1012_Body_E'
+    ReferencedTextures[5] = Texture2D'1011/1011001/Textures/1012/T_1012001_1012_Body_GlowMask.T_1012001_1012_Body_GlowMask'
+    ReferencedTextures[6] = Texture2D'Common/Textures/CameraCrossDithering/T_Common_3x3And2x2_Mix.T_Common_3x3And2x2_Mix'
+    ReferencedTextures[7] = Texture2D'Common/Textures/CameraCrossDithering/T_Common_4x4_Mix.T_Common_4x4_Mix'
+    ReferencedTextures[8] = Texture2D'Common/Textures/T_Common_Black.T_Common_Black'
+    ReferencedTextures[9] = Texture2D'Common/Textures/T_Common_LinearBlack.T_Common_LinearBlack'
+    ReferencedTextures[10] = Texture2D'Common/Textures/T_Common_LinearWhite.T_Common_LinearWhite'
+    ReferencedTextures[11] = Texture2D'Common/Textures/T_Common_Normal_Back.T_Common_Normal_Back'
+}
+Expressions[0] = {}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Opaque (0)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[0] = {}
+CollectedScalarParameters[0] = {}
+CollectedVectorParameters[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

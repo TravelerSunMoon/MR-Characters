@@ -1,0 +1,6 @@
+Diffuse=T_1023300_SuperPowerAmplifier_Weapon_D
+Normal=T_102351_SuperPowerAmplifier_Weapon_N
+SpecPower=T_1023300_SuperPowerAmplifier_Weapon_S
+Emissive=T_102351_SuperPowerAmplifier_Weapon_E
+Other[0]=T_102351_SuperPowerAmplifier_Weapon_ORM
+Other[1]=T_1023001_SuperPowerAmplifier_Weapon_D

@@ -1,0 +1,764 @@
+Parent = Material3'1011/1011001/Materials/1012/M_1012000_Skin.M_1012000_Skin'
+ScalarParameterValues[90] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=ExtraSpecularRoughness }
+        ParameterValue = 0.4
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=EnergyLightIntensity }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=EnergyLightIntensity02 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=EnergyLightIntensity_All }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=TexContrast }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=BodyLightningIntensity }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=BodyLightningIntensity_Sub }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=BodyLightningWidth }
+        ParameterValue = 0.01
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=BodyStrength }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=BodyStrength_Sub }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=BodyEdge }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=BodyMiddle }
+        ParameterValue = -4
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=BodyContrast }
+        ParameterValue = 0.82
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=NormalIntensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=BackFresnelPower }
+        ParameterValue = 35
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=BackRimRange }
+        ParameterValue = 0.99999
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=RoughnessPower }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[17] =
+    {
+        ParameterInfo = { Name=EdgeRoughnessPower }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[18] =
+    {
+        ParameterInfo = { Name=EdgeRoughnessFresnel }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[19] =
+    {
+        ParameterInfo = { Name=SpecularMultiplier }
+        ParameterValue = 6
+        ParameterName = None
+    }
+    ScalarParameterValues[20] =
+    {
+        ParameterInfo = { Name=Color01_01 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[21] =
+    {
+        ParameterInfo = { Name=00_U_Tile }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[22] =
+    {
+        ParameterInfo = { Name=00_V_Tile }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[23] =
+    {
+        ParameterInfo = { Name=00_U_Offset }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[24] =
+    {
+        ParameterInfo = { Name=00_V_Offset }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[25] =
+    {
+        ParameterInfo = { Name=00_U_Speed }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[26] =
+    {
+        ParameterInfo = { Name=00_V_Speed }
+        ParameterValue = -0.8
+        ParameterName = None
+    }
+    ScalarParameterValues[27] =
+    {
+        ParameterInfo = { Name=Intensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[28] =
+    {
+        ParameterInfo = { Name=01_U_Intensity }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[29] =
+    {
+        ParameterInfo = { Name=01_U_Tile }
+        ParameterValue = 4
+        ParameterName = None
+    }
+    ScalarParameterValues[30] =
+    {
+        ParameterInfo = { Name=01_V_Tile }
+        ParameterValue = 4
+        ParameterName = None
+    }
+    ScalarParameterValues[31] =
+    {
+        ParameterInfo = { Name=01_U_Offset }
+        ParameterValue = -1.14301
+        ParameterName = None
+    }
+    ScalarParameterValues[32] =
+    {
+        ParameterInfo = { Name=01_V_Offset }
+        ParameterValue = -0.228571
+        ParameterName = None
+    }
+    ScalarParameterValues[33] =
+    {
+        ParameterInfo = { Name=02_U_Intensity }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[34] =
+    {
+        ParameterInfo = { Name=02_U_Tile }
+        ParameterValue = 4
+        ParameterName = None
+    }
+    ScalarParameterValues[35] =
+    {
+        ParameterInfo = { Name=02_V_Tile }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[36] =
+    {
+        ParameterInfo = { Name=02_U_Offset }
+        ParameterValue = -0.586989
+        ParameterName = None
+    }
+    ScalarParameterValues[37] =
+    {
+        ParameterInfo = { Name=02_V_Offset }
+        ParameterValue = -0.011446
+        ParameterName = None
+    }
+    ScalarParameterValues[38] =
+    {
+        ParameterInfo = { Name=03_U_Intensity }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[39] =
+    {
+        ParameterInfo = { Name=03_U_Tile }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[40] =
+    {
+        ParameterInfo = { Name=03_V_Tile }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[41] =
+    {
+        ParameterInfo = { Name=03_U_Offset }
+        ParameterValue = -0.552382
+        ParameterName = None
+    }
+    ScalarParameterValues[42] =
+    {
+        ParameterInfo = { Name=03_V_Offset }
+        ParameterValue = -0.728475
+        ParameterName = None
+    }
+    ScalarParameterValues[43] =
+    {
+        ParameterInfo = { Name=04_U_Intensity }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[44] =
+    {
+        ParameterInfo = { Name=04_U_Tile }
+        ParameterValue = 4
+        ParameterName = None
+    }
+    ScalarParameterValues[45] =
+    {
+        ParameterInfo = { Name=04_V_Tile }
+        ParameterValue = 4
+        ParameterName = None
+    }
+    ScalarParameterValues[46] =
+    {
+        ParameterInfo = { Name=04_U_Offset }
+        ParameterValue = -0.603763
+        ParameterName = None
+    }
+    ScalarParameterValues[47] =
+    {
+        ParameterInfo = { Name=04_V_Offset }
+        ParameterValue = -1.82201
+        ParameterName = None
+    }
+    ScalarParameterValues[48] =
+    {
+        ParameterInfo = { Name=05_U_Intensity }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[49] =
+    {
+        ParameterInfo = { Name=05_U_Tile }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[50] =
+    {
+        ParameterInfo = { Name=05_V_Tile }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[51] =
+    {
+        ParameterInfo = { Name=05_U_Offset }
+        ParameterValue = -2.07329
+        ParameterName = None
+    }
+    ScalarParameterValues[52] =
+    {
+        ParameterInfo = { Name=05_V_Offset }
+        ParameterValue = -0.796002
+        ParameterName = None
+    }
+    ScalarParameterValues[53] =
+    {
+        ParameterInfo = { Name=06_U_Intensity }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[54] =
+    {
+        ParameterInfo = { Name=06_U_Tile }
+        ParameterValue = 4
+        ParameterName = None
+    }
+    ScalarParameterValues[55] =
+    {
+        ParameterInfo = { Name=06_V_Tile }
+        ParameterValue = 5
+        ParameterName = None
+    }
+    ScalarParameterValues[56] =
+    {
+        ParameterInfo = { Name=06_U_Offset }
+        ParameterValue = -3.07008
+        ParameterName = None
+    }
+    ScalarParameterValues[57] =
+    {
+        ParameterInfo = { Name=06_V_Offset }
+        ParameterValue = -0.466666
+        ParameterName = None
+    }
+    ScalarParameterValues[58] =
+    {
+        ParameterInfo = { Name=07_U_Intensity }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[59] =
+    {
+        ParameterInfo = { Name=07_U_Tile }
+        ParameterValue = 4
+        ParameterName = None
+    }
+    ScalarParameterValues[60] =
+    {
+        ParameterInfo = { Name=07_V_Tile }
+        ParameterValue = 4
+        ParameterName = None
+    }
+    ScalarParameterValues[61] =
+    {
+        ParameterInfo = { Name=07_U_Offset }
+        ParameterValue = -0.811161
+        ParameterName = None
+    }
+    ScalarParameterValues[62] =
+    {
+        ParameterInfo = { Name=07_V_Offset }
+        ParameterValue = -0.619048
+        ParameterName = None
+    }
+    ScalarParameterValues[63] =
+    {
+        ParameterInfo = { Name=08_U_Intensity }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[64] =
+    {
+        ParameterInfo = { Name=08_U_Tile }
+        ParameterValue = 4
+        ParameterName = None
+    }
+    ScalarParameterValues[65] =
+    {
+        ParameterInfo = { Name=08_V_Tile }
+        ParameterValue = 4
+        ParameterName = None
+    }
+    ScalarParameterValues[66] =
+    {
+        ParameterInfo = { Name=08_U_Offset }
+        ParameterValue = -0.8
+        ParameterName = None
+    }
+    ScalarParameterValues[67] =
+    {
+        ParameterInfo = { Name=08_V_Offset }
+        ParameterValue = -2.98163
+        ParameterName = None
+    }
+    ScalarParameterValues[68] =
+    {
+        ParameterInfo = { Name=00BodyLightningIntensity }
+        ParameterValue = 0.95
+        ParameterName = None
+    }
+    ScalarParameterValues[69] =
+    {
+        ParameterInfo = { Name=00BodyLightningIntensity_Sub }
+        ParameterValue = 0.12381
+        ParameterName = None
+    }
+    ScalarParameterValues[70] =
+    {
+        ParameterInfo = { Name=00BodyStrength }
+        ParameterValue = 87.4673
+        ParameterName = None
+    }
+    ScalarParameterValues[71] =
+    {
+        ParameterInfo = { Name=00BodyStrength_Sub }
+        ParameterValue = 1.50029
+        ParameterName = None
+    }
+    ScalarParameterValues[72] =
+    {
+        ParameterInfo = { Name=00BodyEdge }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[73] =
+    {
+        ParameterInfo = { Name=00BodyMiddle }
+        ParameterValue = -4
+        ParameterName = None
+    }
+    ScalarParameterValues[74] =
+    {
+        ParameterInfo = { Name=00BodyContrast }
+        ParameterValue = 0.811173
+        ParameterName = None
+    }
+    ScalarParameterValues[75] =
+    {
+        ParameterInfo = { Name=00BaseScale }
+        ParameterValue = 80
+        ParameterName = None
+    }
+    ScalarParameterValues[76] =
+    {
+        ParameterInfo = { Name=00BaseLightStrength }
+        ParameterValue = 0.514285
+        ParameterName = None
+    }
+    ScalarParameterValues[77] =
+    {
+        ParameterInfo = { Name=00BaseLightContrast }
+        ParameterValue = 2.5
+        ParameterName = None
+    }
+    ScalarParameterValues[78] =
+    {
+        ParameterInfo = { Name=00BaseLightSpeed }
+        ParameterValue = 0.33
+        ParameterName = None
+    }
+    ScalarParameterValues[79] =
+    {
+        ParameterInfo = { Name=00BaseLightMin }
+        ParameterValue = 0.33
+        ParameterName = None
+    }
+    ScalarParameterValues[80] =
+    {
+        ParameterInfo = { Name=00Tex01Scale }
+        ParameterValue = 40
+        ParameterName = None
+    }
+    ScalarParameterValues[81] =
+    {
+        ParameterInfo = { Name=00Tex01Contrast }
+        ParameterValue = 5
+        ParameterName = None
+    }
+    ScalarParameterValues[82] =
+    {
+        ParameterInfo = { Name=00Tex01MaskScale }
+        ParameterValue = 235.195
+        ParameterName = None
+    }
+    ScalarParameterValues[83] =
+    {
+        ParameterInfo = { Name=00Tex01MaskContrast }
+        ParameterValue = 4.33891
+        ParameterName = None
+    }
+    ScalarParameterValues[84] =
+    {
+        ParameterInfo = { Name=00Tex01Strength }
+        ParameterValue = 10
+        ParameterName = None
+    }
+    ScalarParameterValues[85] =
+    {
+        ParameterInfo = { Name=00Tex02Scale }
+        ParameterValue = 50
+        ParameterName = None
+    }
+    ScalarParameterValues[86] =
+    {
+        ParameterInfo = { Name=00Tex02Contrast }
+        ParameterValue = 0.9
+        ParameterName = None
+    }
+    ScalarParameterValues[87] =
+    {
+        ParameterInfo = { Name=00Tex02Strength }
+        ParameterValue = 1.4
+        ParameterName = None
+    }
+    ScalarParameterValues[88] =
+    {
+        ParameterInfo = { Name=00InTexContrast01 }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[89] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[20] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=HandGlowMaskTex }
+        ParameterValue = Texture2D'1011/1011001/Textures/1012/T_1012001_1012_Body_GlowMask.T_1012001_1012_Body_GlowMask'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=EnergyTexture }
+        ParameterValue = Texture2D'1011/1011001/Textures/1012/T_1012001_1012_Body_04_E.T_1012001_1012_Body_04_E'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=EnergyFlowMask }
+        ParameterValue = Texture2D'1011/1011001/Textures/1011/T_1011001_1011_Body_FX_M.T_1011001_1011_Body_FX_M'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=BodyLightningTex }
+        ParameterValue = Texture2D'1011/1011001/Textures/1012/T_1012001_1012_Body_04_E.T_1012001_1012_Body_04_E'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=BodyLightningMask }
+        ParameterValue = Texture2D'1011/1011001/Textures/1011/T_1011001_1011_Body_FX_M.T_1011001_1011_Body_FX_M'
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=BaseColor }
+        ParameterValue = Texture2D'1011/1011001/Textures/1012/T_1012001_1012_Body_D.T_1012001_1012_Body_D'
+        ParameterName = None
+    }
+    TextureParameterValues[6] =
+    {
+        ParameterInfo = { Name=ORM }
+        ParameterValue = Texture2D'1011/1011001/Textures/1012/T_1012001_1012_Body_ORM.T_1012001_1012_Body_ORM'
+        ParameterName = None
+    }
+    TextureParameterValues[7] =
+    {
+        ParameterInfo = { Name=Normal }
+        ParameterValue = Texture2D'1011/1011001/Textures/1012/T_1012001_1012_Body_N.T_1012001_1012_Body_N'
+        ParameterName = None
+    }
+    TextureParameterValues[8] =
+    {
+        ParameterInfo = { Name=Emissive }
+        ParameterValue = Texture2D'Common/Textures/T_Common_Black.T_Common_Black'
+        ParameterName = None
+    }
+    TextureParameterValues[9] =
+    {
+        ParameterInfo = { Name=SpecularTexture }
+        ParameterValue = Texture2D'1011/1011001/Textures/1012/T_1012001_1012_Body_S.T_1012001_1012_Body_S'
+        ParameterName = None
+    }
+    TextureParameterValues[10] =
+    {
+        ParameterInfo = { Name=Texture_Mian }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[11] =
+    {
+        ParameterInfo = { Name=Texture_Normal }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[12] =
+    {
+        ParameterInfo = { Name=01_Mask }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[13] =
+    {
+        ParameterInfo = { Name=02$03$04$05$06$07$08_Mask }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[14] =
+    {
+        ParameterInfo = { Name=00BaseLight }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[15] =
+    {
+        ParameterInfo = { Name=00Tex01 }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[16] =
+    {
+        ParameterInfo = { Name=00Tex01Mask }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[17] =
+    {
+        ParameterInfo = { Name=00Tex02 }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[18] =
+    {
+        ParameterInfo = { Name=00BodyLightningMask_FX }
+        ParameterValue = Texture2D'1011/1011001/Textures/1011/T_1011001_1011_Body_M.T_1011001_1011_Body_M'
+        ParameterName = None
+    }
+    TextureParameterValues[19] =
+    {
+        ParameterInfo = { Name=00InTex01 }
+        ParameterValue = Texture2D'1011/1011001/Textures/1012/T_1012001_1012_Body_03_E.T_1012001_1012_Body_03_E'
+        ParameterName = None
+    }
+}
+VectorParameterValues[11] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseTint }
+        ParameterValue = { R=1, G=1, B=1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=ExtraSpecularTint }
+        ParameterValue = { R=1, G=1, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=BackRimColor }
+        ParameterValue = { R=0.016, G=0.05, B=0.01, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=RimLightDirection }
+        ParameterValue = { R=-2, G=-2, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=MC_Shade_0 }
+        ParameterValue = { R=0.8, G=0.8, B=0.8, A=0.8 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=MC_Shade_1 }
+        ParameterValue = { R=0.4, G=0.4, B=0.4, A=0.6 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=MC_Shade_2 }
+        ParameterValue = { R=0.2, G=0.2, B=0.2, A=0.2 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=MC_ShadeSmoothness_3 }
+        ParameterValue = { R=0.2, G=0.2, B=0.2, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=Color01 }
+        ParameterValue = { R=1, G=1, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[9] =
+    {
+        ParameterInfo = { Name=00BaseColor_FX }
+        ParameterValue = { R=0.151575, G=0.5, B=0.044993, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[10] =
+    {
+        ParameterInfo = { Name=00InColor01 }
+        ParameterValue = { R=0.367164, G=5, B=0, A=0 }
+        ParameterName = None
+    }
+}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

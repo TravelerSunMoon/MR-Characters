@@ -1,0 +1,10 @@
+Diffuse=T_1045100_Equip03_D
+Normal=T_1045100_Equip03_N
+SpecPower=T_1045100_Equip03_S
+Opacity=T_1045100_Equip03_Mask
+Other[0]=T_1045100_Equip03_ORM
+Other[1]=T_1045001_Equip_03_D
+Other[2]=T_1045001_Equip_03_ORM
+Other[3]=T_1045001_Equip_03_N
+Other[4]=T_1045001_Equip_03_S
+Other[5]=T_1045001_Equip_03_M

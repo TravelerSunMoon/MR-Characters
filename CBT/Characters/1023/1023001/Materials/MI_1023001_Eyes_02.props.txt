@@ -1,0 +1,122 @@
+Parent = None
+ScalarParameterValues[10] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=HighlightIntensity }
+        ParameterValue = 17.9273
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=Opacity }
+        ParameterValue = -0.034105
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=Opacity_HighLight }
+        ParameterValue = 13.7581
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=PowerFactor }
+        ParameterValue = 2.19593
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=ReflectionIntensity }
+        ParameterValue = 0.281589
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=RotateAngle }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=TileX }
+        ParameterValue = 0.837279
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=TileY }
+        ParameterValue = 0.83366
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=VLMIntensity }
+        ParameterValue = 0.766666
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[1] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=HighlightMask }
+        ParameterValue = Texture2D'1023/1023001/Textures/T_1023001_EyesHighLight_M.T_1023001_EyesHighLight_M'
+        ParameterName = None
+    }
+}
+VectorParameterValues[3] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseColor }
+        ParameterValue = { R=0.854993, G=0.052861, B=0.043735, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=HighlightTint }
+        ParameterValue = { R=1, G=0.028426, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=RotateFactor }
+        ParameterValue = { R=1, G=0.854993, B=0, A=1 }
+        ParameterName = None
+    }
+}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

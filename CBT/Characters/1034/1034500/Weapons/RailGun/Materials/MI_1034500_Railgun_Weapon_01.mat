@@ -1,0 +1,10 @@
+Diffuse=T_1034500_Railgun_D
+Normal=T_1034500_Railgun_N
+SpecPower=T_1034500_Railgun_S
+Emissive=T_1034500_Railgun_E
+Other[0]=T_1034500_Railgun_ORM
+Other[1]=T_1034001_Railgun_Weapon_01_D
+Other[2]=T_1034001_Railgun_Weapon_01_ORM
+Other[3]=T_1034001_Railgun_Weapon_01_N
+Other[4]=T_1034001_Railgun_Weapon_01_E
+Other[5]=T_1034001_Railgun_Weapon_01_S

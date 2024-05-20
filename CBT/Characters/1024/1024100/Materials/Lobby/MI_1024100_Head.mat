@@ -1,0 +1,6 @@
+Diffuse=T_1024100_Head_D
+Normal=T_1024001_Head_N
+SpecPower=T_1024001_Head_S
+Other[0]=T_1024100_Head_RM
+Other[1]=T_1024001_Head_ORM
+Other[2]=T_1024001_Head_D

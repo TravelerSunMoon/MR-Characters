@@ -1,0 +1,146 @@
+Parent = Material3'1045/1045001/Materials/Lobby/M_1045001_Gem_Ani.M_1045001_Gem_Ani'
+ScalarParameterValues[9] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=IrisUVRadius }
+        ParameterValue = 0.29896
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=IrisBorderWidth }
+        ParameterValue = 0.132
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=RefractionDepthScale }
+        ParameterValue = 0.424
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=POMHeightRatio }
+        ParameterValue = 0.172
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=NormalIntensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=ScleraBegin }
+        ParameterValue = 1.00838
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=ScleraEnd }
+        ParameterValue = 0.64348
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=ScleraScale }
+        ParameterValue = 0.624192
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[5] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=IrisBaseColor }
+        ParameterValue = Texture2D'1045/1045001/Weapons/Trident/Textures/T_1045001_Gem_Weapon_D.T_1045001_Gem_Weapon_D'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=IrisBaseAO }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=IrisHeight }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=ScleraBaseColor }
+        ParameterValue = Texture2D'1045/1045001/Weapons/Trident/Textures/T_1045001_Gem_Weapon_D.T_1045001_Gem_Weapon_D'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=VeinsTexture }
+        ParameterValue = None
+        ParameterName = None
+    }
+}
+VectorParameterValues[4] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=ScleraColor }
+        ParameterValue = { R=0.85, G=0.811816, B=0.34, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=MC_Shade_0 }
+        ParameterValue = { R=0.760417, G=0.760417, B=0.760417, A=0.8 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=MC_Shade_1 }
+        ParameterValue = { R=0.4375, G=0.4375, B=0.4375, A=0.5 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=MC_Shade_2 }
+        ParameterValue = { R=0.546875, G=0.546875, B=0.546875, A=0.2 }
+        ParameterName = None
+    }
+}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

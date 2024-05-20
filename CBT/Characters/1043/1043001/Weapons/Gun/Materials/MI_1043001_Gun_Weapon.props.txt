@@ -1,0 +1,308 @@
+Parent = Material3'1043/1043001/Weapons/Gun/Materials/M_1043001_Gun.M_1043001_Gun'
+ScalarParameterValues[22] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=EmissiveStrength }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=ExtraSpecularRoughness }
+        ParameterValue = 0.24
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=01Add Or Mult }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=ColorChance }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=Line }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=Base01_Power }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=Base01_Strength }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=Base02_Power }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=Base02_Strength }
+        ParameterValue = 6
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=Add_Bloom }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=LinerColorPowerHead }
+        ParameterValue = -0.2
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=LinerColorPowerTial }
+        ParameterValue = 0.25
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=LinerColorRotate }
+        ParameterValue = 30
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=NormalIntensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=RimFresnelPower }
+        ParameterValue = 11
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=RimRange }
+        ParameterValue = 0.85
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=BackFresnelPower }
+        ParameterValue = 6
+        ParameterName = None
+    }
+    ScalarParameterValues[17] =
+    {
+        ParameterInfo = { Name=BackRimRange }
+        ParameterValue = 0.2
+        ParameterName = None
+    }
+    ScalarParameterValues[18] =
+    {
+        ParameterInfo = { Name=RoughnessPower }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[19] =
+    {
+        ParameterInfo = { Name=EdgeRoughnessPower }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[20] =
+    {
+        ParameterInfo = { Name=EdgeRoughnessFresnel }
+        ParameterValue = 10
+        ParameterName = None
+    }
+    ScalarParameterValues[21] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[7] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseTexture1 }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=BaseTexture2 }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=BaseColor }
+        ParameterValue = Texture2D'1043/1043001/Weapons/Gun/Textures/T_1043001_Gun_Weapon_D.T_1043001_Gun_Weapon_D'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=ORM }
+        ParameterValue = Texture2D'1043/1043001/Weapons/Gun/Textures/T_1043001_Gun_Weapon_ORM.T_1043001_Gun_Weapon_ORM'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=Normal }
+        ParameterValue = Texture2D'1043/1043001/Weapons/Gun/Textures/T_1043001_Gun_Weapon_N.T_1043001_Gun_Weapon_N'
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=Emissive }
+        ParameterValue = Texture2D'1043/1043001/Weapons/Gun/Textures/T_1043001_Gun_Weapon_E.T_1043001_Gun_Weapon_E'
+        ParameterName = None
+    }
+    TextureParameterValues[6] =
+    {
+        ParameterInfo = { Name=SpecularTexture }
+        ParameterValue = Texture2D'1043/1043001/Weapons/Gun/Textures/T_1043001_Gun_Weapon_S.T_1043001_Gun_Weapon_S'
+        ParameterName = None
+    }
+}
+VectorParameterValues[16] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=UVTile_Base01 }
+        ParameterValue = { R=0.821699, G=0.926032, B=90, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=UVSpeedOffset_Base01 }
+        ParameterValue = { R=0, G=0, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=ExtraSpecularTint }
+        ParameterValue = { R=0.047933, G=0.064318, B=0.161458, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=UV_Tile_Base02 }
+        ParameterValue = { R=1, G=1.13547, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=UV_SpeedOffset_Base02 }
+        ParameterValue = { R=-0.3, G=0, B=1.46498, A=0.983488 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=LinerColor01 }
+        ParameterValue = { R=0.033358, G=0.687162, B=7, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=LinerColor01_2 }
+        ParameterValue = { R=7, G=3.94659, B=0.344981, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=LinerColor02 }
+        ParameterValue = { R=0.078559, G=0.272024, B=0.598958, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=LinerColor_UVOffset }
+        ParameterValue = { R=0, G=-1, B=0, A=1.7094 }
+        ParameterName = None
+    }
+    VectorParameterValues[9] =
+    {
+        ParameterInfo = { Name=Second TwoLinerColor01 }
+        ParameterValue = { R=7, G=1.07294, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[10] =
+    {
+        ParameterInfo = { Name=Second TwoLinerColor02 }
+        ParameterValue = { R=0, G=0, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[11] =
+    {
+        ParameterInfo = { Name=BackRimColor }
+        ParameterValue = { R=0.000189, G=0, B=0.1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[12] =
+    {
+        ParameterInfo = { Name=MC_Shade_0 }
+        ParameterValue = { R=0.776042, G=0.776042, B=0.776042, A=0.75 }
+        ParameterName = None
+    }
+    VectorParameterValues[13] =
+    {
+        ParameterInfo = { Name=MC_Shade_1 }
+        ParameterValue = { R=0.331489, G=0.338542, B=0.334977, A=0.5 }
+        ParameterName = None
+    }
+    VectorParameterValues[14] =
+    {
+        ParameterInfo = { Name=MC_Shade_2 }
+        ParameterValue = { R=0.295938, G=0.279688, B=0.3, A=0.29 }
+        ParameterName = None
+    }
+    VectorParameterValues[15] =
+    {
+        ParameterInfo = { Name=MC_ShadeSmoothness_3 }
+        ParameterValue = { R=0.025, G=0.025, B=0.0625, A=0 }
+        ParameterName = None
+    }
+}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

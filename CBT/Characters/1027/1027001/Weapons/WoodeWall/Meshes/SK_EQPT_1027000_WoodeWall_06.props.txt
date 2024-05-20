@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'1027/1027001/Weapons/WoodeWall/Materials/MI_1027000_EQPT_WoodenWall_02.MI_1027000_EQPT_WoodenWall_02'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'1027/1027001/Weapons/WoodeWall/Materials/MI_1027000_EQPT_WoodenWall_02.MI_1027000_EQPT_WoodenWall_02'
+        MaterialSlotName = Material #25
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 509.083, 38.3661, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=0, Y=0, Z=0 }
+    BoxExtent = { X=0, Y=0, Z=0 }
+    SphereRadius = 0
+}

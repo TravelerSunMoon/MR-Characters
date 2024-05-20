@@ -1,0 +1,278 @@
+Parent = Material3'1045/1045001/Weapons/Trident/Materials/M_1045001_Body_VFX.M_1045001_Body_VFX'
+ScalarParameterValues[17] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=AOIntensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=ExtraSpecularRoughness }
+        ParameterValue = 0.25
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=FX_1045001_cubeMapStrength }
+        ParameterValue = 0.7
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=FX_1045001_IceLerp }
+        ParameterValue = 0.4
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=FX_1045001_IceStength }
+        ParameterValue = 30
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=FX_IceSwitch }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=Metailic }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=NormalIntensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=RimFresnelPower }
+        ParameterValue = 20
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=RimRange }
+        ParameterValue = 0.998
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=BackFresnelPower }
+        ParameterValue = 20
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=BackRimRange }
+        ParameterValue = 0.99
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=RoughnessPower }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=EdgeRoughnessPower }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=EdgeRoughnessFresnel }
+        ParameterValue = 6
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=MC_StartIndex }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[5] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=FX_1045001_CubeMap }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=BaseColor }
+        ParameterValue = Texture2D'1045/1045001/Weapons/Trident/Textures/T_1045001_Trident_Weapon_D.T_1045001_Trident_Weapon_D'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=ORM }
+        ParameterValue = Texture2D'1045/1045001/Weapons/Trident/Textures/T_1045001_Trident_Weapon_ORM.T_1045001_Trident_Weapon_ORM'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=Normal }
+        ParameterValue = Texture2D'1045/1045001/Weapons/Trident/Textures/T_1045001_Trident_Weapon_N.T_1045001_Trident_Weapon_N'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=SpecularTexture }
+        ParameterValue = Texture2D'1045/1045001/Weapons/Trident/Textures/T_1045001_Trident_Weapon_S.T_1045001_Trident_Weapon_S'
+        ParameterName = None
+    }
+}
+VectorParameterValues[18] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseTint }
+        ParameterValue = { R=1, G=1, B=1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=ExtraSpecularTint }
+        ParameterValue = { R=1.5, G=1.5, B=1.5, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=DetrailColor }
+        ParameterValue = { R=0.068305, G=0.839984, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=FX_1045001_Detrail02Color }
+        ParameterValue = { R=0.020833, G=1, B=0.978992, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=FX_1045001_Detail01_UVs }
+        ParameterValue = { R=1, G=1, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=FX_1045001_Detail_UVOffset }
+        ParameterValue = { R=0, G=0, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=FX_1045001_Detail02_UVs }
+        ParameterValue = { R=2, G=3, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=FX_1045001_Ice01UV }
+        ParameterValue = { R=2, G=2, B=-0.088, A=0.2 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=FX_1045001_Ice02UV }
+        ParameterValue = { R=2, G=2, B=-0.088, A=0.2 }
+        ParameterName = None
+    }
+    VectorParameterValues[9] =
+    {
+        ParameterInfo = { Name=FX_1045001_Normal_UV }
+        ParameterValue = { R=4, G=5, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[10] =
+    {
+        ParameterInfo = { Name=FX_1045001_CubeColor }
+        ParameterValue = { R=0.15513, G=2.83268, B=5, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[11] =
+    {
+        ParameterInfo = { Name=FX_1045001_IceColor }
+        ParameterValue = { R=0.027282, G=0.840056, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[12] =
+    {
+        ParameterInfo = { Name=FX_1045001_IceMaskColor }
+        ParameterValue = { R=0.030634, G=0.860209, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[13] =
+    {
+        ParameterInfo = { Name=RimLightDirection }
+        ParameterValue = { R=0.010417, G=0.010417, B=0.010417, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[14] =
+    {
+        ParameterInfo = { Name=MC_Shade_0 }
+        ParameterValue = { R=0.760417, G=0.760417, B=0.760417, A=0.8 }
+        ParameterName = None
+    }
+    VectorParameterValues[15] =
+    {
+        ParameterInfo = { Name=MC_Shade_1 }
+        ParameterValue = { R=0.197917, G=0.197917, B=0.197917, A=0.5 }
+        ParameterName = None
+    }
+    VectorParameterValues[16] =
+    {
+        ParameterInfo = { Name=MC_Shade_2 }
+        ParameterValue = { R=0.036458, G=0.036458, B=0.036458, A=0.2 }
+        ParameterName = None
+    }
+    VectorParameterValues[17] =
+    {
+        ParameterInfo = { Name=MC_ShadeSmoothness_3 }
+        ParameterValue = { R=0.760417, G=0.760417, B=0.760417, A=0.8 }
+        ParameterName = None
+    }
+}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

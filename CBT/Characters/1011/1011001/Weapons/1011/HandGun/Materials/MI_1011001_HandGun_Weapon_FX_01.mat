@@ -1,0 +1,11 @@
+Diffuse=T_1011001_HandGun_Weapon_01_D
+Normal=T_1011001_HandGun_Weapon_01_N
+Other[0]=T_1011001_HandGun_Weapon_01_ORM
+Other[1]=T_Common_3x3And2x2_Mix
+Other[2]=T_Common_4x4_Mix
+Other[3]=T_Common_Black
+Other[4]=T_Common_LinearBlack
+Other[5]=T_Common_LinearWhite
+Other[6]=T_Common_Normal_Back
+Other[7]=T_Common_EpicQuad
+Other[8]=T_Common_GemRefraction

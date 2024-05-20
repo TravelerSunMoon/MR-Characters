@@ -1,0 +1,12 @@
+Skeleton = Skeleton'1014/1014001/Weapons/LongGun/Meshes/SK_1014001_LongGun_Skeleton.SK_1014001_LongGun_Skeleton'
+bHasVertexColors = true
+bComputeNormalsToUVs = false
+LODInfo[0] = {}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData = { WholeMeshBuiltData[0]={}, RegionBuiltData[0]={} }
+}
+SkinWeightProfiles[0] = {}

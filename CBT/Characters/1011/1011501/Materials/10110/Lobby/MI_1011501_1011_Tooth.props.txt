@@ -1,0 +1,176 @@
+Parent = Material3'Common/Materials/M_Common_Skin.M_Common_Skin'
+ScalarParameterValues[11] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=ExtraSpecularRoughness }
+        ParameterValue = 0.4
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=NormalIntensity }
+        ParameterValue = 1.2
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=RimFresnelPower }
+        ParameterValue = 11
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=RimRange }
+        ParameterValue = 0.85
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=BackFresnelPower }
+        ParameterValue = 5
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=BackRimRange }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=RoughnessPower }
+        ParameterValue = 0.2
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=EdgeRoughnessPower }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=EdgeRoughnessFresnel }
+        ParameterValue = 10
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=SpecularMultiplier }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[3] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseColor }
+        ParameterValue = Texture2D'Common/Textures/Tooth/T_Common_Tooth_D.T_Common_Tooth_D'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=ORM }
+        ParameterValue = Texture2D'Common/Textures/Tooth/T_Common_Tooth_ORM.T_Common_Tooth_ORM'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=Normal }
+        ParameterValue = Texture2D'Common/Textures/Tooth/T_Common_Tooth_N.T_Common_Tooth_N'
+        ParameterName = None
+    }
+}
+VectorParameterValues[9] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseTint }
+        ParameterValue = { R=0.875, G=0.875, B=0.875, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=ExtraSpecularTint }
+        ParameterValue = { R=0.006667, G=0.007167, B=0.01, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=RimLightColor }
+        ParameterValue = { R=0.1, G=0.1, B=0.1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=BackRimColor }
+        ParameterValue = { R=0.036068, G=0.023003, B=0.041667, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=RimLightDirection }
+        ParameterValue = { R=300, G=0, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=MC_Shade_0 }
+        ParameterValue = { R=0.8, G=0.8, B=0.8, A=0.8 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=MC_Shade_1 }
+        ParameterValue = { R=0.6, G=0.6, B=0.6, A=0.35 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=MC_Shade_2 }
+        ParameterValue = { R=0.4, G=0.4, B=0.4, A=0.1 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=MC_ShadeSmoothness_3 }
+        ParameterValue = { R=0.25, G=0.25, B=0.25, A=0 }
+        ParameterName = None
+    }
+}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

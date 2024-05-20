@@ -1,0 +1,12 @@
+Skeleton = Skeleton'1042/1042001/1042_Girl/Meshes/SK_1042_Girl_1042001_Lobby_Skeleton.SK_1042_Girl_1042001_Lobby_Skeleton'
+bHasVertexColors = true
+bComputeNormalsToUVs = false
+LODInfo[0] = {}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData = { WholeMeshBuiltData[0]={}, RegionBuiltData[0]={} }
+}
+SkinWeightProfiles[0] = {}

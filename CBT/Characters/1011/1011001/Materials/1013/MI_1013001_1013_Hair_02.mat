@@ -1,0 +1,12 @@
+Diffuse=T_1013001_1013_Hair_Line_02_D
+Normal=T_Common_Normal_Back
+Opacity=T_1013001_1013_Hair_Line_02_M
+Other[0]=T_Common_3x3And2x2_Mix
+Other[1]=T_Common_4x4_Mix
+Other[2]=T_Commom_WhiteMask
+Other[3]=T_Common_Black
+Other[4]=T_Common_Hair_AnisotropyNoise
+Other[5]=T_Common_LinearBlack
+Other[6]=T_Common_LinearWhite
+Other[7]=T_Common_Noise_01
+Other[8]=T_Common_White

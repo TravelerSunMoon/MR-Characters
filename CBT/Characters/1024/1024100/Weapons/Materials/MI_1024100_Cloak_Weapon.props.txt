@@ -1,0 +1,374 @@
+Parent = Material3'1024/1024001/Weapons/Materials/M_1024001_Cloak2.M_1024001_Cloak2'
+ScalarParameterValues[27] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=Base02D }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=Base02Smooth }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=BaseTex03_Strength }
+        ParameterValue = 0.6
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=BaseTex2Flow }
+        ParameterValue = 0.96
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=Add }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=2Color% }
+        ParameterValue = 0.624136
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=Color% }
+        ParameterValue = 0.798872
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=ColorFlow }
+        ParameterValue = 0.8
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=Step1 }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=Step1_Smooth }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=Step2 }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=Step2_Smooth }
+        ParameterValue = 0.4
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=Step3 }
+        ParameterValue = 0.06
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=Step3_Smooth }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=Mask_Strength }
+        ParameterValue = 1.2
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=1FlowAG }
+        ParameterValue = 1.01
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=BaseTex01Flow }
+        ParameterValue = 1.01
+        ParameterName = None
+    }
+    ScalarParameterValues[17] =
+    {
+        ParameterInfo = { Name=NoiseMaskFlow }
+        ParameterValue = 0.93
+        ParameterName = None
+    }
+    ScalarParameterValues[18] =
+    {
+        ParameterInfo = { Name=NoiseMask02_POWER }
+        ParameterValue = 1.1
+        ParameterName = None
+    }
+    ScalarParameterValues[19] =
+    {
+        ParameterInfo = { Name=NoiseMask02time }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[20] =
+    {
+        ParameterInfo = { Name=SoulTex_in }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[21] =
+    {
+        ParameterInfo = { Name=SoulTex_Power }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[22] =
+    {
+        ParameterInfo = { Name=SoulTex_Smooth }
+        ParameterValue = 0.8
+        ParameterName = None
+    }
+    ScalarParameterValues[23] =
+    {
+        ParameterInfo = { Name=SoulTextime }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[24] =
+    {
+        ParameterInfo = { Name=WPO_Power }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[25] =
+    {
+        ParameterInfo = { Name=WPO_Strength }
+        ParameterValue = 45
+        ParameterName = None
+    }
+    ScalarParameterValues[26] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[8] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseTex01 }
+        ParameterValue = Texture2D'1024/1024001/Weapons/Textures/T_1024001_Cloak_Weapon_01_M.T_1024001_Cloak_Weapon_01_M'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=BaseTex02 }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=BaseTex03 }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=MaskTex02 }
+        ParameterValue = Texture2D'1024/1024001/Weapons/Textures/T_1024001_Cloak_Weapon_03_M.T_1024001_Cloak_Weapon_03_M'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=MaskTex01 }
+        ParameterValue = Texture2D'1024/1024001/Weapons/Textures/T_1024001_Cloak_Weapon_02_M.T_1024001_Cloak_Weapon_02_M'
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=SoulTex }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[6] =
+    {
+        ParameterInfo = { Name=SoulTex02 }
+        ParameterValue = Texture2D'1024/1024001/Weapons/Textures/T_Soul_2_001.T_Soul_2_001'
+        ParameterName = None
+    }
+    TextureParameterValues[7] =
+    {
+        ParameterInfo = { Name=WPOTextureG01 }
+        ParameterValue = None
+        ParameterName = None
+    }
+}
+VectorParameterValues[21] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseColor01 }
+        ParameterValue = { R=0, G=0.150228, B=0.2, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=BaseColor02 }
+        ParameterValue = { R=0.034744, G=0.345668, B=0.4, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=BaseTex02UV }
+        ParameterValue = { R=3, G=1, B=0, A=-0.195239 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=BaseTex03UV }
+        ParameterValue = { R=4.5, G=2, B=0, A=-0.13 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=color1 }
+        ParameterValue = { R=0.817708, G=0.08177, B=0.094035, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=color2 }
+        ParameterValue = { R=0.697917, G=0.039984, B=0.050946, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=color3 }
+        ParameterValue = { R=0.3125, G=0.021159, B=0.026014, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=color4 }
+        ParameterValue = { R=1, G=1, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=color5 }
+        ParameterValue = { R=0.863291, G=0.91, B=0.776346, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[9] =
+    {
+        ParameterInfo = { Name=Color_Noise }
+        ParameterValue = { R=3, G=2, B=0, A=-0.2 }
+        ParameterName = None
+    }
+    VectorParameterValues[10] =
+    {
+        ParameterInfo = { Name=Step1Color }
+        ParameterValue = { R=0.046875, G=0.046875, B=0.046875, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[11] =
+    {
+        ParameterInfo = { Name=Step2Color }
+        ParameterValue = { R=0.515625, G=0.515625, B=0.515625, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[12] =
+    {
+        ParameterInfo = { Name=Step3Color }
+        ParameterValue = { R=0.53125, G=0.53125, B=0.53125, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[13] =
+    {
+        ParameterInfo = { Name=1_Noise }
+        ParameterValue = { R=3, G=5, B=0, A=-0.68 }
+        ParameterName = None
+    }
+    VectorParameterValues[14] =
+    {
+        ParameterInfo = { Name=NoiseMask01UV }
+        ParameterValue = { R=1, G=1, B=0, A=0.1 }
+        ParameterName = None
+    }
+    VectorParameterValues[15] =
+    {
+        ParameterInfo = { Name=NoiseMask02UV }
+        ParameterValue = { R=5, G=1.5, B=0, A=-0.03 }
+        ParameterName = None
+    }
+    VectorParameterValues[16] =
+    {
+        ParameterInfo = { Name=SoulTexColor }
+        ParameterValue = { R=0.393626, G=0.795872, B=1.8, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[17] =
+    {
+        ParameterInfo = { Name=SoulTexDissolveUV }
+        ParameterValue = { R=1, G=2, B=0, A=0.1 }
+        ParameterName = None
+    }
+    VectorParameterValues[18] =
+    {
+        ParameterInfo = { Name=SoulTexUV }
+        ParameterValue = { R=3, G=1, B=-0.04, A=0.05 }
+        ParameterName = None
+    }
+    VectorParameterValues[19] =
+    {
+        ParameterInfo = { Name=SoulTexUV02 }
+        ParameterValue = { R=2, G=2, B=0.02, A=0.1 }
+        ParameterName = None
+    }
+    VectorParameterValues[20] =
+    {
+        ParameterInfo = { Name=WPOUV }
+        ParameterValue = { R=30, G=50, B=0, A=1 }
+        ParameterName = None
+    }
+}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

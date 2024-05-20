@@ -1,0 +1,96 @@
+Parent = MaterialInstanceConstant'Common/Materials/MI_EyeHighlight.MI_EyeHighlight'
+ScalarParameterValues[9] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=HighlightIntensity }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=Opacity }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=Opacity_HighLight }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=PowerFactor }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=ReflectionIntensity }
+        ParameterValue = 7
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=RotateAngle }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=TileX }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=TileY }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[1] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=HighlightMask }
+        ParameterValue = Texture2D'1011/1011001/Textures/1011/T_1011001_1011_EyesHighLight_M.T_1011001_1011_EyesHighLight_M'
+        ParameterName = None
+    }
+}
+VectorParameterValues[0] = {}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

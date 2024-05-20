@@ -1,0 +1,206 @@
+Parent = MaterialInstanceConstant'1031/1031001/Materials/MI_1031001_Crystal.MI_1031001_Crystal'
+ScalarParameterValues[13] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=LineRange }
+        ParameterValue = -0.47
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=cubeMapStrength }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=cubeMapWidth }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=NormalScale }
+        ParameterValue = 0.01
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=RampDividLine }
+        ParameterValue = -13
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=OutlineParameter }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=InnerLightWeight }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=RimFresnelPower }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=RimRange }
+        ParameterValue = 0.9
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=BackRimWidth }
+        ParameterValue = -1.25
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=LineSpecRoughness }
+        ParameterValue = 0.754
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=SpecIntense }
+        ParameterValue = 300
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[7] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=CubeMap }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=NormalMap }
+        ParameterValue = Texture2D'1031/1031001/Texture/T_1031001_Equip_07_N.T_1031001_Equip_07_N'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=DiffuseTex }
+        ParameterValue = Texture2D'1031/1031100/Texture/T_1031100_Equip_07_D.T_1031100_Equip_07_D'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=RDepth }
+        ParameterValue = Texture2D'1031/1031001/Texture/T_1031001_Equip_07_M.T_1031001_Equip_07_M'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=RimLine }
+        ParameterValue = Texture2D'1031/1031001/Texture/T_1031001_Equip_07_E.T_1031001_Equip_07_E'
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=Roughness }
+        ParameterValue = Texture2D'1031/1031001/Texture/T_1031001_Equip_07_ORM.T_1031001_Equip_07_ORM'
+        ParameterName = None
+    }
+    TextureParameterValues[6] =
+    {
+        ParameterInfo = { Name=SpecMask }
+        ParameterValue = Texture2D'1031/1031001/Texture/T_1031001_Equip_07_M.T_1031001_Equip_07_M'
+        ParameterName = None
+    }
+}
+VectorParameterValues[8] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=BasicLineColor }
+        ParameterValue = { R=0.897222, G=1, B=0.229167, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=RampColor0 }
+        ParameterValue = { R=0.958073, G=1, B=0.890625, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=RampColor1 }
+        ParameterValue = { R=0.939063, G=0.932292, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=RampLightDir }
+        ParameterValue = { R=0, G=-0, B=0.5, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=InnerColor }
+        ParameterValue = { R=6.66667, G=9.88889, B=10, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=RimLightColor }
+        ParameterValue = { R=32.25, G=45, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=LightDir_LineSpec }
+        ParameterValue = { R=-0.173319, G=1.80193, B=0.574231, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=LineSpecColor }
+        ParameterValue = { R=1000, G=916.667, B=0, A=1 }
+        ParameterName = None
+    }
+}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

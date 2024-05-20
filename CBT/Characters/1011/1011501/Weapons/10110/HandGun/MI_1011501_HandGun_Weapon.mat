@@ -1,0 +1,14 @@
+Diffuse=T_1011501_HandGun_Weapon_D
+Normal=T_1011501_HandGun_Weapon_N
+SpecPower=T_1011501_HandGun_Weapon_S
+Opacity=T_1011501_HandGun_Weapon_M
+Other[0]=T_1011501_HandGun_Weapon_ORM
+Other[1]=T_Common_3x3And2x2_Mix
+Other[2]=T_Common_4x4_Mix
+Other[3]=T_Commom_WhiteMask
+Other[4]=T_Common_Black
+Other[5]=T_Common_LinearBlack
+Other[6]=T_Common_LinearWhite
+Other[7]=T_Common_Normal_Back
+Other[8]=T_Common_EpicQuad
+Other[9]=T_Common_GemRefraction

@@ -1,0 +1,17 @@
+Diffuse=T_1011501_10111_Equip_02_FX_D
+Normal=T_1012001_1012_Equip_02_N
+Other[0]=T_1012001_1012_Equip_02_ORM
+Other[1]=T_1011001_1011_Body_M
+Other[2]=T_1011001_1011_Equip_02_E
+Other[3]=T_1011001_1011_Eyes_01_M
+Other[4]=T_Cloth_FX_Mask
+Other[5]=T_1012001_1012_Body_02_E
+Other[6]=T_1012001_1012_Body_GlowMask
+Other[7]=T_Common_3x3And2x2_Mix
+Other[8]=T_Common_4x4_Mix
+Other[9]=T_Common_Black
+Other[10]=T_Common_LinearBlack
+Other[11]=T_Common_LinearWhite
+Other[12]=T_Common_Normal_Back
+Other[13]=T_Common_EpicQuad
+Other[14]=T_Common_GemRefraction

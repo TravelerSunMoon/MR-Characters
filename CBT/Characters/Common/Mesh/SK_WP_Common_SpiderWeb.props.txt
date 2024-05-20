@@ -1,0 +1,12 @@
+Skeleton = Skeleton'Common/Mesh/SK_WP_Common_SpiderWeb_Skeleton.SK_WP_Common_SpiderWeb_Skeleton'
+bHasVertexColors = false
+bComputeNormalsToUVs = false
+LODInfo[0] = {}
+MorphTargets[0] = {}
+Sockets[0] = {}
+SamplingInfo =
+{
+    Regions[0] = {}
+    BuiltData = { WholeMeshBuiltData[0]={}, RegionBuiltData[0]={} }
+}
+SkinWeightProfiles[0] = {}

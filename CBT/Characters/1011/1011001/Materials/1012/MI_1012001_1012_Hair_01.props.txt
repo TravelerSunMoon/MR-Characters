@@ -1,0 +1,236 @@
+Parent = Material3'Common/Materials/M_Common_Hair.M_Common_Hair'
+ScalarParameterValues[17] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=Anisotropy Direction }
+        ParameterValue = -0.83
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=SpecularShiftPower }
+        ParameterValue = 0.15
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=Scatter }
+        ParameterValue = 0.8
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=SpecularLimit }
+        ParameterValue = 0.02
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=EdgeMaskContrast }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=EdgeMaskMin }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=MC_StartIndex }
+        ParameterValue = 9
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=VLMIntensity }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=NormalIntensity }
+        ParameterValue = 0.6
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=RimFresnelPower }
+        ParameterValue = 17
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=RimRange }
+        ParameterValue = 0.6
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=BackFresnelPower }
+        ParameterValue = 8.09524
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=BackRimRange }
+        ParameterValue = 0.009524
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=RoughnessPower }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=EdgeRoughnessPower }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=EdgeRoughnessFresnel }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[7] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseColor }
+        ParameterValue = Texture2D'1011/1011001/Textures/1012/T_1012001_1012_Hair_01_D.T_1012001_1012_Hair_01_D'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=OpacityMask }
+        ParameterValue = Texture2D'1011/1011001/Textures/1012/T_1012001_1012_Hair_01_M.T_1012001_1012_Hair_01_M'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=Normal }
+        ParameterValue = Texture2D'1011/1011001/Textures/1012/T_1012001_1012_Hair_01_N.T_1012001_1012_Hair_01_N'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=AnisotropyBrightness }
+        ParameterValue = Texture2D'1011/1011001/Textures/1012/T_1012001_1012_Hair_01_AN.T_1012001_1012_Hair_01_AN'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=SpecularShift }
+        ParameterValue = Texture2D'Common/Textures/T_Highlight.T_Highlight'
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=Unique_Hair_Value }
+        ParameterValue = Texture2D'1011/1011001/Textures/1012/T_1012001_1012_Hair_01_ID.T_1012001_1012_Hair_01_ID'
+        ParameterName = None
+    }
+    TextureParameterValues[6] =
+    {
+        ParameterInfo = { Name=ShadowColor(UV1) }
+        ParameterValue = Texture2D'1011/1011001/Textures/1012/T_1012001_1012_Hair_01_AO.T_1012001_1012_Hair_01_AO'
+        ParameterName = None
+    }
+}
+VectorParameterValues[9] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseTint }
+        ParameterValue = { R=0.953125, G=0.900558, B=0.848877, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=RimLightDirection }
+        ParameterValue = { R=-15, G=-8, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=MC_Shade_0 }
+        ParameterValue = { R=0.8, G=0.736251, B=0.5875, A=0.8 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=MC_Shade_1 }
+        ParameterValue = { R=0.4, G=0.4, B=0.4, A=0.5 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=MC_Shade_2 }
+        ParameterValue = { R=0.2, G=0.2, B=0.2, A=0.15 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=MC_ShadeSmoothness_3 }
+        ParameterValue = { R=0.2, G=0.2, B=0.2, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=Tangent }
+        ParameterValue = { R=-0.190476, G=2.23426, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=TangentA }
+        ParameterValue = { R=0, G=0, B=0.3, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=TangentB }
+        ParameterValue = { R=0.08354, G=0, B=-0.3, A=1 }
+        ParameterName = None
+    }
+}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

@@ -1,0 +1,9 @@
+Diffuse=T_Common_3x3And2x2_Mix
+Normal=T_Common_Normal_Back
+Other[0]=T_Common_4x4_Mix
+Other[1]=T_Commom_WhiteMask
+Other[2]=T_Common_Black
+Other[3]=T_Common_LinearBlack
+Other[4]=T_Common_LinearWhite
+Other[5]=T_Common_EpicQuad
+Other[6]=T_Common_GemRefraction

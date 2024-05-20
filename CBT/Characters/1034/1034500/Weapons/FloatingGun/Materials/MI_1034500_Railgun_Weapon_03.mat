@@ -1,0 +1,10 @@
+Diffuse=T_1034500_FloatingGun02_D
+Normal=T_1034500_FloatingGun02_N
+SpecPower=T_1034500_FloatingGun02_SP
+Emissive=T_1034500_FloatingGun02_E
+Other[0]=T_1034500_FloatingGun02_ORM
+Other[1]=T_1034500_FloatingGun01_D
+Other[2]=T_1034500_FloatingGun01_ORM
+Other[3]=T_1034500_FloatingGun01_N
+Other[4]=T_1034500_FloatingGun01_E
+Other[5]=T_1034500_FloatingGun01_SP

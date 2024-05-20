@@ -1,0 +1,6 @@
+Diffuse=T_Common_3x3And2x2_Mix
+SpecPower=T_CartoonSpecularShell_Seed
+Other[0]=T_Common_4x4_Mix
+Other[1]=T_Common_Black
+Other[2]=T_Common_Seed_Mask
+Other[3]=T_TilingNoise14

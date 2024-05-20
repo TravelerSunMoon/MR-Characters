@@ -1,0 +1,200 @@
+Parent = MaterialInstanceConstant'1045/1045001/Weapons/Trident/Materials/MI_1045001_EyeShell_Weapon_Ani.MI_1045001_EyeShell_Weapon_Ani'
+ScalarParameterValues[14] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=RampDividLine }
+        ParameterValue = 1.1
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=SpecIntense }
+        ParameterValue = 25
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=SpecRoughness }
+        ParameterValue = 3
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=Opacity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=NoiseBumpOffset }
+        ParameterValue = 0.75
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=InsideOutSideWeight }
+        ParameterValue = 0.2
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=MROTiling }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=RoughtnessPower }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=AddNoiseAlpha }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=NoiseTiling }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=CustomSpecContrast }
+        ParameterValue = 5
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=RimContrast }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=RimWidth }
+        ParameterValue = 1.5
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[4] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=DiffuseMap }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=MRO_Texture }
+        ParameterValue = None
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=NoiseTexture }
+        ParameterValue = Texture2D'1045/1045001/Weapons/Octopus/Textures/T_1045001_Seed_Weapon_01_Noise.T_1045001_Seed_Weapon_01_Noise'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=OpacityMap }
+        ParameterValue = None
+        ParameterName = None
+    }
+}
+VectorParameterValues[9] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseColor }
+        ParameterValue = { R=0, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=RampColor0 }
+        ParameterValue = { R=2, G=2, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=RampColor1 }
+        ParameterValue = { R=0.7, G=0.525, B=0.35, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=RampLightDir }
+        ParameterValue = { R=0.02, G=0.002425, B=0.104, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=SpecColor }
+        ParameterValue = { R=1, G=0.9005, B=0.801, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=SpecDir }
+        ParameterValue = { R=-0.2, G=0.179727, B=0.372952, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=AddNoiseClr }
+        ParameterValue = { R=0, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=NoiseColor }
+        ParameterValue = { R=0.73, G=0.449603, B=0, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=RimColor }
+        ParameterValue = { R=0.47, G=0.242781, B=0, A=1 }
+        ParameterName = None
+    }
+}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

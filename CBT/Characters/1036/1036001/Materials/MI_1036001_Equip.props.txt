@@ -1,0 +1,194 @@
+Parent = Material3'1036/1036001/Materials/M_1036001_Body.M_1036001_Body'
+ScalarParameterValues[11] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=SpiderManLightIns }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=SpiderManLightIns02 }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=SpiderManLight_FresnelExponentln }
+        ParameterValue = 4
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=SpiderManLight_FresnelFractionIn }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=EmissiveStrength }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=ExtraSpecularRoughness }
+        ParameterValue = 0.27
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=NormalIntensity }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=RoughnessPower }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=EdgeRoughnessPower }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=EdgeRoughnessFresnel }
+        ParameterValue = 6
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[6] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseMask }
+        ParameterValue = Texture2D'1036/1036001/Texture/T_1036001_Equip_M.T_1036001_Equip_M'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=BaseColor }
+        ParameterValue = Texture2D'1036/1036001/Texture/T_1036001_Equip_D.T_1036001_Equip_D'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=ORM }
+        ParameterValue = Texture2D'1036/1036001/Texture/T_1036001_Equip_ORM.T_1036001_Equip_ORM'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=Normal }
+        ParameterValue = Texture2D'1036/1036001/Texture/T_1036001_Equip_N.T_1036001_Equip_N'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=Emissive }
+        ParameterValue = Texture2D'1036/1036001/Texture/T_1036001_Equip_E.T_1036001_Equip_E'
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=SpecularTexture }
+        ParameterValue = Texture2D'1036/1036001/Texture/T_1036001_Equip_S.T_1036001_Equip_S'
+        ParameterName = None
+    }
+}
+VectorParameterValues[9] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=SpiderManLightColor01Ins }
+        ParameterValue = { R=0, G=0, B=3, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=SpiderManLightColor02Ins }
+        ParameterValue = { R=0, G=0, B=3, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=SpiderManLight_FresnelColor }
+        ParameterValue = { R=0, G=0, B=2, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=EmissiveColor }
+        ParameterValue = { R=0.251593, G=0.890149, B=1, A=0 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=ExtraSpecularTint }
+        ParameterValue = { R=1, G=1, B=1, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=MC_Shade_0 }
+        ParameterValue = { R=0.8, G=0.8, B=0.8, A=0.8 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=MC_Shade_1 }
+        ParameterValue = { R=0.5, G=0.5, B=0.5, A=0.4 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=MC_Shade_2 }
+        ParameterValue = { R=0.2, G=0.2, B=0.2, A=0.2 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=MC_ShadeSmoothness_3 }
+        ParameterValue = { R=0.2, G=0.2, B=0.2, A=0 }
+        ParameterName = None
+    }
+}
+DummyProp3 = 
+DummyProp6 = { AtlasData= }
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

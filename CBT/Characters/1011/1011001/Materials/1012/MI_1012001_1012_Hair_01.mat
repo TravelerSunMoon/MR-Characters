@@ -1,0 +1,17 @@
+Diffuse=T_1012001_1012_Hair_01_D
+Normal=T_1012001_1012_Hair_01_N
+SpecPower=T_Highlight
+Opacity=T_1012001_1012_Hair_01_M
+Other[0]=T_1012001_1012_Hair_01_AN
+Other[1]=T_1012001_1012_Hair_01_ID
+Other[2]=T_1012001_1012_Hair_01_AO
+Other[3]=T_Common_3x3And2x2_Mix
+Other[4]=T_Common_4x4_Mix
+Other[5]=T_Commom_WhiteMask
+Other[6]=T_Common_Black
+Other[7]=T_Common_Hair_AnisotropyNoise
+Other[8]=T_Common_LinearBlack
+Other[9]=T_Common_LinearWhite
+Other[10]=T_Common_Noise_01
+Other[11]=T_Common_Normal_Back
+Other[12]=T_Common_White

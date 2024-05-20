@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'1023/1023001/Materials/Lobby/MI_1023001_Rim_HeroList.MI_1023001_Rim_HeroList'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'1023/1023001/Materials/Lobby/MI_1023001_Rim_HeroList.MI_1023001_Rim_HeroList'
+        MaterialSlotName = MI_Shell
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 130.91, 15.8329, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=0, Y=0, Z=0 }
+    BoxExtent = { X=0, Y=0, Z=0 }
+    SphereRadius = 0
+}
